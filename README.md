@@ -39,4 +39,5 @@ Layout otimizado para dispositivos móveis e desktop
 ## Execute o projeto:
 
 npm install
+
 ionic serve
